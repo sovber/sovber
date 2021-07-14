@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sovber
+- 👀 I’m interested  HTML/CSS/JS
+- 🌱 I’m currently learning JS/jQuery
